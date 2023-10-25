@@ -1,0 +1,3 @@
+C:/Users/jacke/OneDrive/Рабочий стол/2223L_21c_s24911/cmake-build-debug/CMakeFiles/s24911.dir
+C:/Users/jacke/OneDrive/Рабочий стол/2223L_21c_s24911/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jacke/OneDrive/Рабочий стол/2223L_21c_s24911/cmake-build-debug/CMakeFiles/rebuild_cache.dir
